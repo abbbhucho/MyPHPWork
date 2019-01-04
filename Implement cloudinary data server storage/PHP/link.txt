@@ -1,0 +1,2 @@
+This is the link containing the file which can ne used as a front end refernece to create a page uploading image to cloudinary using their API implemented in PHP .
+<p><a href="https://www.script-tutorials.com/pure-html5-file-upload/">link</a></p>
