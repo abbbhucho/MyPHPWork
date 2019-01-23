@@ -1,3 +1,4 @@
+<p style="font-size:12px color:white background-color:blue border:none  border-radius: 15px 15px 15px 15px;">PHP</p>
 This repository contains the solutions to all the exercises given in Learning PHP by David Sklar ,a book by o'reilly.
 <p>To buy the book go <a href="https://www.amazon.com/Learning-PHP-5-David-Sklar/dp/0596005601">Here</a></p>
 <br />
