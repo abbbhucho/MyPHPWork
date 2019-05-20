@@ -10,4 +10,4 @@
 - Download repository by clicking 'Download ZIP' on the right side of this page or clone using Git
 - Create new database and define it's name at *Global functions* part in `DB/init.php`
 - Edit informations in `DB/init.php` for connecting database
-- In phpmyadmin, go to your database, click 'SQL' from top menu and add SQL from `/DB/todo.sql`
+- In phpmyadmin, go to your database, click 'SQL' from top menu and add SQL from `/DB/users.sql`
