@@ -1,1 +1,1 @@
-the live preview is shown for for the company here : https://ajaxwithanirban.000webhostapp.com/
+the live preview is shown for the company here : https://ajaxwithanirban.000webhostapp.com/
