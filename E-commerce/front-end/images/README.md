@@ -1,1 +1,2 @@
 - Contains all the images used in the front end homepage and products page.
+- NOTE: I donot own the copyright of these images these images are used just for educational purposes only.
